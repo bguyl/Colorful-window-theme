@@ -18,13 +18,11 @@ class BasicColorTheme {
 
 let themeOfWindowID = new Map();
 const ALL_THEMES = [
-    new BasicColorTheme('#ec5f67'),
-    new BasicColorTheme('#f99157'),
-    new BasicColorTheme('#fac863'),
-    new BasicColorTheme('#99c794'),
-    new BasicColorTheme('#5fb3b3'),
-    new BasicColorTheme('#6699cc'),
-    new BasicColorTheme('#c594c5'),
+    new BasicColorTheme('#062726'),
+    new BasicColorTheme('#102B3F'),
+    new BasicColorTheme('#6247AA'),
+    new BasicColorTheme('#97ABB1'),
+    new BasicColorTheme('#AA767C')
 ];
 
 function getNextTheme() {
